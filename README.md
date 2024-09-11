@@ -70,6 +70,7 @@ python eval_diffusion.py --config "test.yml" --resume 'Nhaze_ddpm.pth.tar' --sam
 
 ## Author
 📧 : zhangrch23@mail2.sysu.edu.cn
+📧 : tiankh@mail2.sysu.edu.cn
 
 ## Acknowledgment
 &emsp;This work was supported by the National Natural Science Foundation of China under Grant No.62071500; Supported by Supported by Shenzhen Science and Technology Program under Grant No. JCYJ20230807111107015. Supported by Fundamental Research Funds for the Central Universities, Sun Yat-sen University under Grant No. 241gqb015.
